@@ -85,7 +85,9 @@ const Cheolmin = () => {
             <S.TitleAndNumber>
               <S.Numbering>01 </S.Numbering>
               <S.TitleSpan color='#A1248D'>"꾸준히"</S.TitleSpan>
-              <S.SubTitleSpan>평균 주 5회 TIL을 작성 </S.SubTitleSpan>
+              <S.SubTitleSpan>
+                주 5회 TIL , 93번의 런닝{' '}
+              </S.SubTitleSpan>
             </S.TitleAndNumber>
           </S.TitleAndNumberBox>
           <div>
