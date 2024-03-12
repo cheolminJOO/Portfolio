@@ -104,7 +104,7 @@ const Cheolmin = () => {
           <S.TitleAndNumberBox>
             <S.TitleAndNumber>
               <S.Numbering>02 </S.Numbering>
-              <S.TitleSpan color='#4B37C4'>"UX 관점에서 개발"</S.TitleSpan>
+              <S.TitleSpan color='#4B37C4'>"UX 관점에서 접근"</S.TitleSpan>
               <S.SubTitleSpan>구글폼을 통해 사용자 테스트 진행</S.SubTitleSpan>
             </S.TitleAndNumber>
           </S.TitleAndNumberBox>
